@@ -78,7 +78,6 @@
 			</div>
 			
 			<h2>PÖRSSI</h2>
-			<p>Huom! Marilk Oy ei vastaa pörssitiedon oikeellisuudesta.</p>
 			
 			<div id="formcontainer">
 			<form id="lomake" action="kurssit" method="post">
